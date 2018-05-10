@@ -1,0 +1,23 @@
+.container {
+  color: tan;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+#burgerpic {
+  width: 100px;
+  height: 100px;
+}
+
+#burgerbox {
+  width: 200px;
+  height: 100px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
